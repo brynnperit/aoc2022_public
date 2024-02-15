@@ -5,7 +5,7 @@
             "type": "cppdbg",
             "request": "launch",
             "program": "${fileWorkspaceFolder}/bin/${fileBasenameNoExtension}",
-            "args": [],
+            "args": ["${fileWorkspaceFolder}/input/${fileBasenameNoExtension}_test","${fileWorkspaceFolder}/input/${fileBasenameNoExtension}"],
             "stopAtEntry": false,
             "cwd": "${fileDirname}",
             "environment": [],
