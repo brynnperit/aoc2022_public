@@ -51,6 +51,7 @@
         "iomanip": "cpp",
         "sstream": "cpp",
         "fstream": "cpp",
-        "span": "cpp"
+        "span": "cpp",
+        "map": "cpp"
     }
 }
