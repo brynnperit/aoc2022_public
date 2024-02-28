@@ -34,3 +34,7 @@ bin/*
 
 # User-specific input files
 input/*
+
+# Cmake auto-generated files
+build/*
+*.kdev4

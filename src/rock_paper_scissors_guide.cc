@@ -5,9 +5,9 @@
 #include <fstream>
 #include <iostream>
 #include <map>
-#include "rock_paper_scissors_guide.h"
+#include <rock_paper_scissors_guide.h>
 
-namespace aoc2022_week1_solver02
+namespace rock_paper_scissors_guide
 {
     using namespace std::literals;
 

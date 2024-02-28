@@ -1,0 +1,3 @@
+add_library(rock_paper_scissors_guide rock_paper_scissors_guide.cc)
+target_link_libraries(rock_paper_scissors_guide ${aoc2022_LIBS})
+target_include_directories(rock_paper_scissors_guide PUBLIC ${PROJECT_SOURCE_DIR}/include)

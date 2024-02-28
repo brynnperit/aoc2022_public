@@ -1,0 +1,3 @@
+add_executable(solver02 solver02.cc)
+target_compile_features(solver02 PRIVATE cxx_std_20)
+target_link_libraries(solver02 rock_paper_scissors_guide)

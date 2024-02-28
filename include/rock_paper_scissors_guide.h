@@ -3,7 +3,7 @@
 #include <filesystem>
 #include <iostream>
 #include <map>
-namespace aoc2022_week1_solver02
+namespace rock_paper_scissors_guide
 {
     class RPSGuide
     {

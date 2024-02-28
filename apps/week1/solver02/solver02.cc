@@ -1,9 +1,12 @@
+#include <rock_paper_scissors_guide.h>
+
 #include <vector>
 #include <string>
 #include <span>
 #include <filesystem>
-#include "rock_paper_scissors_guide.h"
-using namespace aoc2022_week1_solver02;
+
+using namespace rock_paper_scissors_guide;
+
 int main(int argc, char *argv[])
 {
     std::ios_base::sync_with_stdio(false);
